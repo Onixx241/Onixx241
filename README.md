@@ -1,11 +1,17 @@
-## Hi there 👋
+# Onix Torres
 
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onixx241)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onixx241)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=40&pause=1000&color=000000&center=true&random=true&width=435&lines=Hello!+I'm+Onix)](https://git.io/typing-svg)
+# 🔭 I’m currently working on: Learning Graphics Programming with OpenGL, MVC Projects for Internship
 <!--
 **Onixx241/Onixx241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+# 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
