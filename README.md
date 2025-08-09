@@ -5,18 +5,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onixx241)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=40&pause=1000&color=000000&center=true&random=true&width=435&lines=Hello!+I'm+Onix)](https://git.io/typing-svg)
-# 🔭 I’m currently working on: Learning Graphics Programming with OpenGL, MVC Projects for Internship
-<!--
-**Onixx241/Onixx241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🔭 I’m currently working on: Learning Graphics Programming with OpenGL, Enterprise MVC projects for internship.
 
-Here are some ideas to get you started:
+# Languages
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Frameworks
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+# Databases
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
