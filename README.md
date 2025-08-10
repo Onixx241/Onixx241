@@ -1,4 +1,4 @@
-# Onix Torres
+<h1 align="center">Onix Torres</h1>
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onixx241)](https://github.com/anuraghazra/github-readme-stats)
