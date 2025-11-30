@@ -1,8 +1,6 @@
 <h1 align="center">Onix Torres</h1>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onixx241)](https://github.com/anuraghazra/github-readme-stats)
----
 # 🔭 I’m currently working on: Learning Graphics Programming with OpenGL, Enterprise MVC projects for internship.
 
 # Languages
