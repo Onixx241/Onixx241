@@ -1,7 +1,7 @@
 <h1 align="center">Onix Torres</h1>
 
 ---
-# 🔭 I’m currently working on: Learning Graphics Programming with OpenGL, Enterprise MVC projects for internship.
+# 🔭 I’m currently working on: Learning Graphics Programming with OpenGL, Enterprise MVC projects 
 
 # Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
