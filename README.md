@@ -1,9 +1,9 @@
 <h1 align="center">Onix Torres</h1>
 
 ---
-# 🔭 I’m currently working on: 
-## Learning Graphics Programming with OpenGL 
-## Full Stack Enterprise Web Apps
+# <div align="center">🔭 I’m currently working on:</div> 
+## <div align="center">Learning Graphics Programming with OpenGL</div> 
+## <div align="center">Full Stack Enterprise Web Apps</div>
 ---
 
 # Languages
