@@ -2,7 +2,7 @@
 
 ---
 # <div align="center">🔭 I’m currently working on:</div> 
-## <div align="center">Learning Graphics Programming with OpenGL</div> 
+## <div align="center">Writing drivers for my STM32F44RE</div> 
 ## <div align="center">Full Stack Enterprise Web Apps</div>
 ---
 
