@@ -1,4 +1,5 @@
 <h1 align="center">Onix Torres</h1>
+<p align="center"> A .NET dev interested in embedded systems and graphics programming from scratch ! </p>
 
 ---
 # <div align="center">🔭 I’m currently working on:</div> 
