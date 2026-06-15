@@ -3,7 +3,7 @@
 
 ---
 # <div align="center">🔭 I’m currently working on:</div> 
-## <div align="center">Emebedded Programs & FPGAs</div> 
+## <div align="center">Embedded Programs & FPGAs</div> 
 ## <div align="center">Full Stack Enterprise Web Apps</div>
 ---
 
